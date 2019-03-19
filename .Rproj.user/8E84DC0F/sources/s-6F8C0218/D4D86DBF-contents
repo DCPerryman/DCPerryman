@@ -1,11 +1,11 @@
-baseurl = "/"
+baseurl = "/DCPerryman/"
 languageCode = "en-us"
-title = "A Hugo website"
+title = "This is Danielle"
 theme = "hugo-lithium"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
-publirDir = "docs"
+publishDir = "docs"
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
@@ -17,8 +17,8 @@ publirDir = "docs"
     name = "GitHub"
     url = "https://github.com/rstudio/blogdown"
 [[menu.main]]
-    name = "Twitter"
-    url = "https://twitter.com/rstudio"
+    name = "Instagram"
+    url = "https://Instagram"
 
 [params]
     description = "A website built through Hugo and blogdown."
