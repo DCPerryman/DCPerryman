@@ -1,4 +1,4 @@
-baseurl = "/DCPerryman/"
+baseurl = "https://dcperryman.github.io/DCPerryman/"
 languageCode = "en-us"
 title = "A Hugo website"
 theme = "hugo-lithium"
