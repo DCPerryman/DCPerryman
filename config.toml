@@ -1,6 +1,6 @@
 baseurl = "https://dcperryman.github.io/DCPerryman/"
 languageCode = "en-us"
-title = "A Hugo website"
+title = "This is Danielle"
 theme = "hugo-lithium"
 googleAnalytics = ""
 disqusShortname = ""
