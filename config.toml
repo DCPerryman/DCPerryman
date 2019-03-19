@@ -1,4 +1,4 @@
-baseurl = "https://dcperryman.github.io/DCPerryman/"
+baseurl = "/DCPerryman/"
 languageCode = "en-us"
 title = "This is Danielle"
 theme = "hugo-lithium"
